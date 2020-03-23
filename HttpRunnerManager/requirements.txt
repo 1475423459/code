@@ -1,0 +1,10 @@
+Django 
+PyYAML 
+requests 
+eventlet 
+mysqlclient 
+django-celery 
+flower 
+dwebsocket 
+paramiko
+HttpRunner 

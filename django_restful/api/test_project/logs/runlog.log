@@ -1,0 +1,204 @@
+2020-03-11 15:41:09,085 mysql_action.py[line:8] INFO -----------init data------- 
+2020-03-11 15:41:09,106 mysql_action.py[line:15] INFO clear db...
+2020-03-11 15:41:09,557 mysql_action.py[line:26] INFO insert db...
+2020-03-11 15:41:09,559 mysql_action.py[line:35] INFO id,username,email,groups
+2020-03-11 15:41:09,562 mysql_action.py[line:36] INFO '1','sutune','sutune@163.com','http://127.0.0.1:8000/groups/1/'
+2020-03-11 15:41:09,621 mysql_action.py[line:26] INFO insert db...
+2020-03-11 15:41:09,623 mysql_action.py[line:35] INFO id,username,email,groups
+2020-03-11 15:41:09,626 mysql_action.py[line:36] INFO '2','51zxw','51zxw@163.com','http://127.0.0.1:8000/groups/2/'
+2020-03-11 15:41:09,682 mysql_action.py[line:15] INFO clear db...
+2020-03-11 15:41:10,223 mysql_action.py[line:26] INFO insert db...
+2020-03-11 15:41:10,224 mysql_action.py[line:35] INFO id,name
+2020-03-11 15:41:10,224 mysql_action.py[line:36] INFO '1','Developer'
+2020-03-11 15:41:10,254 mysql_action.py[line:26] INFO insert db...
+2020-03-11 15:41:10,257 mysql_action.py[line:35] INFO id,name
+2020-03-11 15:41:10,259 mysql_action.py[line:36] INFO '2','Tester'
+2020-03-11 15:41:10,333 mysql_action.py[line:51] INFO ---------- init data finished ----------
+2020-03-11 15:41:10,510 run.py[line:33] INFO = = = = = = = = API Test = = = = = = = =
+2020-03-11 15:41:10,512 test_django_restful.py[line:48] INFO -----test_001_group_developer
+2020-03-11 15:41:10,564 test_django_restful.py[line:56] INFO -----test_002_add_group
+2020-03-11 15:41:10,614 test_django_restful.py[line:64] INFO -----test_003_update_group
+2020-03-11 15:41:10,664 test_django_restful.py[line:72] INFO -----test_004_detele_group
+2020-03-11 15:41:10,714 test_django_restful.py[line:12] INFO -----test_001_get_user
+2020-03-11 15:41:10,733 test_django_restful.py[line:20] INFO -----test_002_add_user
+2020-03-11 15:41:10,843 test_django_restful.py[line:29] INFO -----test_003_delete_user
+2020-03-11 15:41:10,917 test_django_restful.py[line:35] INFO -----test_004_update_user
+2020-03-11 16:40:46,963 mysql_action.py[line:8] INFO -----------init data------- 
+2020-03-11 16:40:46,972 mysql_action.py[line:15] INFO clear db...
+2020-03-11 16:40:47,445 mysql_action.py[line:26] INFO insert db...
+2020-03-11 16:40:47,446 mysql_action.py[line:35] INFO id,username,email,groups
+2020-03-11 16:40:47,446 mysql_action.py[line:36] INFO '1','sutune','sutune@163.com','http://127.0.0.1:8000/groups/1/'
+2020-03-11 16:40:47,476 mysql_action.py[line:26] INFO insert db...
+2020-03-11 16:40:47,477 mysql_action.py[line:35] INFO id,username,email,groups
+2020-03-11 16:40:47,477 mysql_action.py[line:36] INFO '2','51zxw','51zxw@163.com','http://127.0.0.1:8000/groups/2/'
+2020-03-11 16:40:47,537 mysql_action.py[line:15] INFO clear db...
+2020-03-11 16:40:48,030 mysql_action.py[line:26] INFO insert db...
+2020-03-11 16:40:48,033 mysql_action.py[line:35] INFO id,name
+2020-03-11 16:40:48,035 mysql_action.py[line:36] INFO '1','Developer'
+2020-03-11 16:40:48,076 mysql_action.py[line:26] INFO insert db...
+2020-03-11 16:40:48,079 mysql_action.py[line:35] INFO id,name
+2020-03-11 16:40:48,081 mysql_action.py[line:36] INFO '2','Tester'
+2020-03-11 16:40:48,148 mysql_action.py[line:51] INFO ---------- init data finished ----------
+2020-03-11 16:40:48,340 run.py[line:33] INFO = = = = = = = = API Test = = = = = = = =
+2020-03-11 16:40:48,341 test_django_restful.py[line:48] INFO -----test_001_group_developer
+2020-03-11 16:40:48,355 test_django_restful.py[line:56] INFO -----test_002_add_group
+2020-03-11 16:40:48,458 test_django_restful.py[line:64] INFO -----test_003_update_group
+2020-03-11 16:40:48,532 test_django_restful.py[line:72] INFO -----test_004_detele_group
+2020-03-11 16:40:48,598 test_django_restful.py[line:12] INFO -----test_001_get_user
+2020-03-11 16:40:48,633 test_django_restful.py[line:20] INFO -----test_002_add_user
+2020-03-11 16:40:48,679 test_django_restful.py[line:29] INFO -----test_003_delete_user
+2020-03-11 16:40:48,728 test_django_restful.py[line:35] INFO -----test_004_update_user
+2020-03-11 17:29:54,674 mysql_action.py[line:8] INFO -----------init data------- 
+2020-03-11 17:29:54,684 mysql_action.py[line:15] INFO clear db...
+2020-03-11 17:29:55,240 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:29:55,283 mysql_action.py[line:35] INFO id,username,email,groups
+2020-03-11 17:29:55,324 mysql_action.py[line:36] INFO '1','sutune','sutune@163.com','http://127.0.0.1:8000/groups/1/'
+2020-03-11 17:29:55,410 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:29:55,425 mysql_action.py[line:35] INFO id,username,email,groups
+2020-03-11 17:29:55,438 mysql_action.py[line:36] INFO '2','51zxw','51zxw@163.com','http://127.0.0.1:8000/groups/2/'
+2020-03-11 17:29:55,485 mysql_action.py[line:15] INFO clear db...
+2020-03-11 17:29:55,988 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:29:56,013 mysql_action.py[line:35] INFO id,name
+2020-03-11 17:29:56,031 mysql_action.py[line:36] INFO '1','Developer'
+2020-03-11 17:29:56,076 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:29:56,081 mysql_action.py[line:35] INFO id,name
+2020-03-11 17:29:56,085 mysql_action.py[line:36] INFO '2','Tester'
+2020-03-11 17:29:56,139 mysql_action.py[line:51] INFO ---------- init data finished ----------
+2020-03-11 17:29:56,244 run.py[line:33] INFO = = = = = = = = API Test = = = = = = = =
+2020-03-11 17:29:56,250 test_django_restful.py[line:47] INFO -----test_001_group_developer
+2020-03-11 17:29:56,262 test_django_restful.py[line:55] INFO -----test_002_add_group
+2020-03-11 17:29:56,322 test_django_restful.py[line:63] INFO -----test_003_update_group
+2020-03-11 17:29:56,370 test_django_restful.py[line:71] INFO -----test_004_detele_group
+2020-03-11 17:29:56,420 test_django_restful.py[line:11] INFO -----test_001_get_user
+2020-03-11 17:29:56,429 test_django_restful.py[line:19] INFO -----test_002_add_user
+2020-03-11 17:29:56,470 test_django_restful.py[line:28] INFO -----test_003_delete_user
+2020-03-11 17:29:56,551 test_django_restful.py[line:34] INFO -----test_004_update_user
+2020-03-11 17:32:40,201 mysql_action.py[line:8] INFO -----------init data------- 
+2020-03-11 17:32:40,210 mysql_action.py[line:15] INFO clear db...
+2020-03-11 17:32:40,693 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:32:40,694 mysql_action.py[line:35] INFO id,username,email,groups
+2020-03-11 17:32:40,694 mysql_action.py[line:36] INFO '1','sutune','sutune@163.com','http://127.0.0.1:8000/groups/1/'
+2020-03-11 17:32:40,735 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:32:40,736 mysql_action.py[line:35] INFO id,username,email,groups
+2020-03-11 17:32:40,736 mysql_action.py[line:36] INFO '2','51zxw','51zxw@163.com','http://127.0.0.1:8000/groups/2/'
+2020-03-11 17:32:40,812 mysql_action.py[line:15] INFO clear db...
+2020-03-11 17:32:41,244 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:32:41,247 mysql_action.py[line:35] INFO id,name
+2020-03-11 17:32:41,250 mysql_action.py[line:36] INFO '1','Developer'
+2020-03-11 17:32:41,308 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:32:41,310 mysql_action.py[line:35] INFO id,name
+2020-03-11 17:32:41,313 mysql_action.py[line:36] INFO '2','Tester'
+2020-03-11 17:32:41,371 mysql_action.py[line:51] INFO ---------- init data finished ----------
+2020-03-11 17:32:41,712 run.py[line:33] INFO = = = = = = = = API Test = = = = = = = =
+2020-03-11 17:32:41,713 test_django_restful.py[line:47] INFO -----test_001_group_developer
+2020-03-11 17:32:41,739 test_django_restful.py[line:55] INFO -----test_002_add_group
+2020-03-11 17:32:41,815 test_django_restful.py[line:63] INFO -----test_003_update_group
+2020-03-11 17:32:41,876 test_django_restful.py[line:71] INFO -----test_004_detele_group
+2020-03-11 17:32:41,926 test_django_restful.py[line:11] INFO -----test_001_get_user
+2020-03-11 17:32:41,934 test_django_restful.py[line:19] INFO -----test_002_add_user
+2020-03-11 17:32:42,035 test_django_restful.py[line:28] INFO -----test_003_delete_user
+2020-03-11 17:32:42,102 test_django_restful.py[line:34] INFO -----test_004_update_user
+2020-03-11 17:38:20,313 mysql_action.py[line:8] INFO -----------init data------- 
+2020-03-11 17:38:20,315 mysql_action.py[line:9] INFO connect db
+2020-03-11 17:38:20,322 mysql_action.py[line:15] INFO clear db...
+2020-03-11 17:38:20,808 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:38:20,809 mysql_action.py[line:35] INFO id,username,email,groups
+2020-03-11 17:38:20,810 mysql_action.py[line:36] INFO '1','sutune','sutune@163.com','http://127.0.0.1:8000/groups/1/'
+2020-03-11 17:38:20,836 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:38:20,837 mysql_action.py[line:35] INFO id,username,email,groups
+2020-03-11 17:38:20,838 mysql_action.py[line:36] INFO '2','51zxw','51zxw@163.com','http://127.0.0.1:8000/groups/2/'
+2020-03-11 17:38:20,887 mysql_action.py[line:15] INFO clear db...
+2020-03-11 17:38:21,309 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:38:21,312 mysql_action.py[line:35] INFO id,name
+2020-03-11 17:38:21,314 mysql_action.py[line:36] INFO '1','Developer'
+2020-03-11 17:38:21,345 mysql_action.py[line:26] INFO insert db...
+2020-03-11 17:38:21,348 mysql_action.py[line:35] INFO id,name
+2020-03-11 17:38:21,350 mysql_action.py[line:36] INFO '2','Tester'
+2020-03-11 17:38:21,422 mysql_action.py[line:51] INFO ---------- init data finished ----------
+2020-03-11 17:38:21,637 run.py[line:33] INFO = = = = = = = = API Test = = = = = = = =
+2020-03-11 17:38:21,637 test_django_restful.py[line:47] INFO -----test_001_group_developer
+2020-03-11 17:38:21,648 test_django_restful.py[line:55] INFO -----test_002_add_group
+2020-03-11 17:38:21,716 test_django_restful.py[line:63] INFO -----test_003_update_group
+2020-03-11 17:38:21,780 test_django_restful.py[line:71] INFO -----test_004_detele_group
+2020-03-11 17:38:21,830 test_django_restful.py[line:11] INFO -----test_001_get_user
+2020-03-11 17:38:21,842 test_django_restful.py[line:19] INFO -----test_002_add_user
+2020-03-11 17:38:21,881 test_django_restful.py[line:28] INFO -----test_003_delete_user
+2020-03-11 17:38:21,930 test_django_restful.py[line:34] INFO -----test_004_update_user
+2020-03-11 17:44:51,655 - root - INFO - -----------init data------- 
+2020-03-11 17:44:51,655 - root - INFO - connect db
+2020-03-11 17:44:51,672 - root - INFO - clear db...
+2020-03-11 17:44:52,154 - root - INFO - insert db...
+2020-03-11 17:44:52,155 - root - INFO - id,username,email,groups
+2020-03-11 17:44:52,155 - root - INFO - '1','sutune','sutune@163.com','http://127.0.0.1:8000/groups/1/'
+2020-03-11 17:44:52,207 - root - INFO - insert db...
+2020-03-11 17:44:52,207 - root - INFO - id,username,email,groups
+2020-03-11 17:44:52,208 - root - INFO - '2','51zxw','51zxw@163.com','http://127.0.0.1:8000/groups/2/'
+2020-03-11 17:44:52,262 - root - INFO - clear db...
+2020-03-11 17:44:52,646 - root - INFO - insert db...
+2020-03-11 17:44:52,646 - root - INFO - id,name
+2020-03-11 17:44:52,646 - root - INFO - '1','Developer'
+2020-03-11 17:44:52,759 - root - INFO - insert db...
+2020-03-11 17:44:52,759 - root - INFO - id,name
+2020-03-11 17:44:52,759 - root - INFO - '2','Tester'
+2020-03-11 17:44:52,812 - root - INFO - ---------- init data finished ----------
+2020-03-11 17:44:52,904 - root - INFO - = = = = = = = = API Test = = = = = = = =
+2020-03-11 17:44:52,905 - root - INFO - -----test_001_group_developer
+2020-03-11 17:44:52,925 - root - INFO - -----test_002_add_group
+2020-03-11 17:44:52,978 - root - INFO - -----test_003_update_group
+2020-03-11 17:44:53,055 - root - INFO - -----test_004_detele_group
+2020-03-11 17:44:53,138 - root - INFO - -----test_001_get_user
+2020-03-11 17:44:53,167 - root - INFO - -----test_002_add_user
+2020-03-11 17:44:53,223 - root - INFO - -----test_003_delete_user
+2020-03-11 17:44:53,279 - root - INFO - -----test_004_update_user
+2020-03-11 17:47:07,073 - root -mysql_action.py-[line:8]- INFO - -----------init data------- 
+2020-03-11 17:47:07,073 - root -mysql_action.py-[line:9]- INFO - connect db
+2020-03-11 17:47:07,090 - root -mysql_action.py-[line:15]- INFO - clear db...
+2020-03-11 17:47:07,526 - root -mysql_action.py-[line:26]- INFO - insert db...
+2020-03-11 17:47:07,526 - root -mysql_action.py-[line:35]- INFO - id,username,email,groups
+2020-03-11 17:47:07,526 - root -mysql_action.py-[line:36]- INFO - '1','sutune','sutune@163.com','http://127.0.0.1:8000/groups/1/'
+2020-03-11 17:47:07,559 - root -mysql_action.py-[line:26]- INFO - insert db...
+2020-03-11 17:47:07,559 - root -mysql_action.py-[line:35]- INFO - id,username,email,groups
+2020-03-11 17:47:07,559 - root -mysql_action.py-[line:36]- INFO - '2','51zxw','51zxw@163.com','http://127.0.0.1:8000/groups/2/'
+2020-03-11 17:47:07,591 - root -mysql_action.py-[line:15]- INFO - clear db...
+2020-03-11 17:47:07,952 - root -mysql_action.py-[line:26]- INFO - insert db...
+2020-03-11 17:47:07,953 - root -mysql_action.py-[line:35]- INFO - id,name
+2020-03-11 17:47:07,953 - root -mysql_action.py-[line:36]- INFO - '1','Developer'
+2020-03-11 17:47:07,993 - root -mysql_action.py-[line:26]- INFO - insert db...
+2020-03-11 17:47:07,994 - root -mysql_action.py-[line:35]- INFO - id,name
+2020-03-11 17:47:07,994 - root -mysql_action.py-[line:36]- INFO - '2','Tester'
+2020-03-11 17:47:08,039 - root -mysql_action.py-[line:51]- INFO - ---------- init data finished ----------
+2020-03-11 17:47:08,150 - root -run.py-[line:33]- INFO - = = = = = = = = API Test = = = = = = = =
+2020-03-11 17:47:08,150 - root -test_django_restful.py-[line:47]- INFO - -----test_001_group_developer
+2020-03-11 17:47:08,170 - root -test_django_restful.py-[line:55]- INFO - -----test_002_add_group
+2020-03-11 17:47:08,218 - root -test_django_restful.py-[line:63]- INFO - -----test_003_update_group
+2020-03-11 17:47:08,285 - root -test_django_restful.py-[line:71]- INFO - -----test_004_detele_group
+2020-03-11 17:47:08,336 - root -test_django_restful.py-[line:11]- INFO - -----test_001_get_user
+2020-03-11 17:47:08,354 - root -test_django_restful.py-[line:19]- INFO - -----test_002_add_user
+2020-03-11 17:47:08,442 - root -test_django_restful.py-[line:28]- INFO - -----test_003_delete_user
+2020-03-11 17:47:08,486 - root -test_django_restful.py-[line:34]- INFO - -----test_004_update_user
+2020-03-11 17:48:16,923 - root -mysql_action.py-[line:8]- INFO - -----------init data------- 
+2020-03-11 17:48:16,923 - root -mysql_action.py-[line:9]- INFO - connect db
+2020-03-11 17:48:16,930 - root -mysql_action.py-[line:15]- INFO - clear db...
+2020-03-11 17:48:17,327 - root -mysql_action.py-[line:26]- INFO - insert db...
+2020-03-11 17:48:17,328 - root -mysql_action.py-[line:35]- INFO - id,username,email,groups
+2020-03-11 17:48:17,328 - root -mysql_action.py-[line:36]- INFO - '1','sutune','sutune@163.com','http://127.0.0.1:8000/groups/1/'
+2020-03-11 17:48:17,355 - root -mysql_action.py-[line:26]- INFO - insert db...
+2020-03-11 17:48:17,356 - root -mysql_action.py-[line:35]- INFO - id,username,email,groups
+2020-03-11 17:48:17,356 - root -mysql_action.py-[line:36]- INFO - '2','51zxw','51zxw@163.com','http://127.0.0.1:8000/groups/2/'
+2020-03-11 17:48:17,415 - root -mysql_action.py-[line:15]- INFO - clear db...
+2020-03-11 17:48:17,886 - root -mysql_action.py-[line:26]- INFO - insert db...
+2020-03-11 17:48:17,886 - root -mysql_action.py-[line:35]- INFO - id,name
+2020-03-11 17:48:17,887 - root -mysql_action.py-[line:36]- INFO - '1','Developer'
+2020-03-11 17:48:17,932 - root -mysql_action.py-[line:26]- INFO - insert db...
+2020-03-11 17:48:17,933 - root -mysql_action.py-[line:35]- INFO - id,name
+2020-03-11 17:48:17,933 - root -mysql_action.py-[line:36]- INFO - '2','Tester'
+2020-03-11 17:48:17,980 - root -mysql_action.py-[line:51]- INFO - ---------- init data finished ----------
+2020-03-11 17:48:18,117 - root -run.py-[line:33]- INFO - = = = = = = = = API Test = = = = = = = =
+2020-03-11 17:48:18,117 - root -test_django_restful.py-[line:47]- INFO - -----test_001_group_developer
+2020-03-11 17:48:18,126 - root -test_django_restful.py-[line:55]- INFO - -----test_002_add_group
+2020-03-11 17:48:18,166 - root -test_django_restful.py-[line:63]- INFO - -----test_003_update_group
+2020-03-11 17:48:18,225 - root -test_django_restful.py-[line:71]- INFO - -----test_004_detele_group
+2020-03-11 17:48:18,325 - root -test_django_restful.py-[line:11]- INFO - -----test_001_get_user
+2020-03-11 17:48:18,351 - root -test_django_restful.py-[line:19]- INFO - -----test_002_add_user
+2020-03-11 17:48:18,419 - root -test_django_restful.py-[line:28]- INFO - -----test_003_delete_user
+2020-03-11 17:48:18,473 - root -test_django_restful.py-[line:34]- INFO - -----test_004_update_user
